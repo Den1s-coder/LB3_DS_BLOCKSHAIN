@@ -15,7 +15,7 @@
 
 ## 📊 UML Діаграма класів
 
-![UML Class Diagram](LB3_DS_BLOCKCHAIN/data/diagram.png)
+![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/diagram.png)
 
 **Діаграма показує:**
 - Криптографічні класи (Hash, KeyPair, Signature)
