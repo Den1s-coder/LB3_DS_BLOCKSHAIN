@@ -25,7 +25,7 @@
 ## Результати тестування
 
 ![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/result1.jpg)
-![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/diagram.jpg)
+![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/result2.jpg)
 
 ## Функції продукту (короткий опис)
 
